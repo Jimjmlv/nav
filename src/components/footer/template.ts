@@ -8,10 +8,10 @@ const t: Record<string, any> = {
     <div>
       <div class="dark-white text-base font-bold mb-8">联系方式</div>
       <div class="text-gray-600 dark-white-700 mb-6">
-        问题反馈：xjh22222228&commat;gmail.com
+        问题反馈：jimjmlv&commat;gmail.com
       </div>
       <div class="text-gray-600 dark-white-700 mb-6">
-        微信授权：xjh22222228
+        微信授权：jimjmlv
       </div>
     </div>
 
@@ -42,7 +42,7 @@ const t: Record<string, any> = {
 
     <div class="text-center w-32 max-full">
       <div>
-        <img src="https://gcore.jsdelivr.net/gh/xjh22222228/public@gh-pages/img/202.jpg" class="w-full" />
+        <img src="https://gcore.jsdelivr.net/gh/jimjmlv/public@gh-pages/img/202.jpg" class="w-full" />
       </div>
     </div>
   </div>
@@ -63,7 +63,7 @@ const t: Record<string, any> = {
   <div class="mt-2 md:mt-0 flex justify-center items-center mr-4">
     <img
       class="w-6 h-6 mr-2"
-      src="https://gcore.jsdelivr.net/gh/xjh22222228/public@gh-pages/nav/logo.svg"
+      src="https://gcore.jsdelivr.net/gh/jimjmlv/public@gh-pages/nav/logo.svg"
     />
     &commat; $\{year} $\{hostname}, $\{total}.
   </div>

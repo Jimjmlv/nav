@@ -14,8 +14,8 @@ import { settings } from 'src/store'
   styleUrls: ['./icon-git.component.scss'],
 })
 export class IconGitComponent {
-  gitRepoUrl: string = config.gitRepoUrl.includes('github.com/xjh22222228')
-    ? 'https://github.com/xjh22222228/nav'
+  gitRepoUrl: string = config.gitRepoUrl.includes('github.com/jimjmlv')
+    ? 'https://github.com/jimjmlv/nav'
     : config.gitRepoUrl
   showGithub = settings.showGithub
 
