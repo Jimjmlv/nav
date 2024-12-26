@@ -31,7 +31,7 @@ email: ''
 
 # 自有部署邮件通知系统
 mailConfig:
-  host: smtp.jimjmlv.com
+  host: smtp.jimlv.com
   port: 465
   secure: true
   auth:
