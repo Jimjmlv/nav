@@ -1,16 +1,16 @@
 <p align="center">
   <a href="https://nav3.cn/?g">
-    <img src="https://gcore.jsdelivr.net/gh/xjh22222228/public@gh-pages/nav/logo.svg" width="130" />
+    <img src="https://gcore.jsdelivr.net/gh/jimjmlv/public@gh-pages/nav/logo.svg" width="130" />
   </a>
   <br />
   <b>发现导航</b>
   <p align="center">一个纯静态、支持SEO、在线编辑的强大导航网站，希望您会喜欢</p>
   <p align="center">内置收录多达 800+ 优质网站， 助您工作、学习和生活</p>
   <p align="center">
-    <img src="https://img.shields.io/github/v/release/xjh22222228/nav" />
-    <a href="https://github.com/xjh22222228/nav/stargazers"><img src="https://img.shields.io/github/stars/xjh22222228/nav" alt="Stars"/></a>
+    <img src="https://img.shields.io/github/v/release/jimjmlv/nav" />
+    <a href="https://github.com/jimjmlv/nav/stargazers"><img src="https://img.shields.io/github/stars/jimjmlv/nav" alt="Stars"/></a>
     <img alt="Angular" src="https://img.shields.io/static/v1.svg?label=&message=Angular&style=flat-square&color=C82B38">
-    <img src="https://img.shields.io/github/license/xjh22222228/nav" />
+    <img src="https://img.shields.io/github/license/jimjmlv/nav" />
   </p>
 </p>
 
@@ -18,18 +18,18 @@
   <source
     media="(prefers-color-scheme: dark)"
     srcset="
-      https://api.star-history.com/svg?repos=xjh22222228/nav&type=Date&theme=dark
+      https://api.star-history.com/svg?repos=jimjmlv/nav&type=Date&theme=dark
     "
   />
   <source
     media="(prefers-color-scheme: light)"
     srcset="
-      https://api.star-history.com/svg?repos=xjh22222228/nav&type=Date
+      https://api.star-history.com/svg?repos=jimjmlv/nav&type=Date
     "
   />
   <img
     alt="Star History Chart"
-    src="https://api.star-history.com/svg?repos=xjh22222228/nav&type=Date"
+    src="https://api.star-history.com/svg?repos=jimjmlv/nav&type=Date"
   />
 </picture>
 
@@ -69,7 +69,7 @@
 
 - [https://nav3.cn](https://nav3.cn)
 
-![Preview](https://gcore.jsdelivr.net/gh/xjh22222228/public@gh-pages/nav/preview.gif)
+![Preview](https://gcore.jsdelivr.net/gh/jimjmlv/public@gh-pages/nav/preview.gif)
 
 ## 可以干嘛
 
@@ -135,7 +135,7 @@
 | | √| address | 自有部署, 一旦填写认为你是自有部署 |
 |√| √| email | 用户提交收录通知 |
 | | √| mailConfig | 自有部署，用户收录通知邮箱配置 |
-|√ | | imageRepoUrl | 图片仓库, 默认主仓库 `https://github.com/xjh22222228/image?branch=main` |
+|√ | | imageRepoUrl | 图片仓库, 默认主仓库 `https://github.com/jimjmlv/image?branch=main` |
 
 ## 后台
 
@@ -170,7 +170,7 @@ npm run update
 
 您可以请作者喝杯咖啡，继续战斗下去
 
-<img src="https://gcore.jsdelivr.net/gh/xjh22222228/public@gh-pages/img/32.png" width="600">
+<img src="https://gcore.jsdelivr.net/gh/jimjmlv/public@gh-pages/img/32.png" width="600">
 
 ## LICENSE
 

@@ -26,13 +26,13 @@ const t: Record<string, any> = {
     <div>
       <div class="dark-white text-base font-bold mb-8">技术支持</div>
       <div class="mb-6">
-        <a href="https://github.com/xjh22222228/nav" target="_blank">
+        <a href="https://github.com/Jimjmlv/nav" target="_blank">
           Nav
         </a>
       </div>
       <div class="mb-6">
         <a
-          href="https://github.com/xjh22222228/beautiful-window"
+          href="https://github.com/Jimjmlv/beautiful-window"
           target="_blank"
         >
           Beautiful window
@@ -72,31 +72,31 @@ const t: Record<string, any> = {
     class="flex break-all justify-center flex-wrap items-center gap-x-4 gap-y-1"
   >
     <a
-      href="https://github.com/xjh22222228"
+      href="https://github.com/Jimjmlv"
       target="_blank"
       class="text-gray-600 hover:underline"
       >Author</a
     >
     <a
-      href="https://github.com/xjh22222228/nav"
+      href="https://github.com/Jimjmlv/nav"
       target="_blank"
       class="text-gray-600 hover:underline"
       >Nav</a
     >
     <a
-      href="https://github.com/xjh22222228/boomb"
+      href="https://github.com/Jimjmlv/boomb"
       target="_blank"
       class="text-gray-600 hover:underline"
       >Boomb</a
     >
     <a
-      href="https://github.com/xjh22222228/beautiful-window"
+      href="https://github.com/Jimjmlv/beautiful-window"
       target="_blank"
       class="text-gray-600 hover:underline"
       >Beautiful window</a
     >
     <a
-      href="https://github.com/xjh22222228/tomato-work"
+      href="https://github.com/Jimjmlv/tomato-work"
       target="_blank"
       class="text-gray-600 hover:underline"
       >Tomato work</a
